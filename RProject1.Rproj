@@ -11,7 +11,7 @@ output:
     toc_depth: 2
 ---
 
-### Load packages
+### Load Packages
 
 ```{r load-packages, message=FALSE}
 library(tidyverse) 
